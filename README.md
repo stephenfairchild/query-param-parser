@@ -4,7 +4,7 @@ The problem:
 Sometimes you want to see the full list of query parameters that exist in a URL. It's tedious to inpsect this if the list is very long.
 
 The solution:
-This CLI tool wrote in Node will parse those query params for you.
+This CLI tool will parse those query params for you.
 
 Usage:
 
